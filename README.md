@@ -1,4 +1,4 @@
-Data-Driven-Land-Cover-Classification-using-NDVI-GEE-Platform, A Case Study of Dhaka, Bangladesh. Question about the schene
+Data-Driven-Land-Cover-Classification-using-NDVI-GEE-Platform, A Case Study of Dhaka, Bangladesh.
 -------------------------------------------------------------------------------------------------
 
 
