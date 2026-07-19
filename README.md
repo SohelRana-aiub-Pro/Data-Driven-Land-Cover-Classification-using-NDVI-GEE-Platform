@@ -2,7 +2,7 @@ Data-Driven-Land-Cover-Classification-using-NDVI-GEE-Platform, A Case Study of D
 -------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <b>A Remote Sensing and Geospatial AI Approach for Automated Land Cover Mapping using Landsat 8 Time-Series Data</b>
+  <b>A Remote Sensing and Geospatial AI Approach for Automated Land Cover Mapping with Landsat 8 Time-Series Data</b>
 </p>
 
 ---
@@ -469,12 +469,12 @@ GitHub; https://github.com/SohelRana-aiub-Pro/Data-Driven-Land-Cover-Classificat
 # Keywords
 
 ```
-Remote Sensing
+Earth observations/Remote Sensing
 Google Earth Engine
 NDVI
 Landsat 8
 Land Cover Classification
-GIS
+GIS/Geo AI
 Satellite Image Processing
 Machine Learning
 Environmental Monitoring
